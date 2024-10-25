@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
 
 ###
 
-<p align="left">👦 My name is Lucas, and I'm a guy who enjoys learning about technology from Brazil.</p>
+<p align="left">👦 My name is Lucas, and I'm a guy who enjoys learning about technology from Brazil .</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about Java and Python (Data Analytics).<br>🎯 Goals: Learn more and more and ✈travel a lot.</p>
+<p align="left">📚 I'm currently learning about Java and Python (Data Analytics).<br>🎯 Goals: Learn more and more and ✈travel a lot.</p>
 
 ###
 
@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
