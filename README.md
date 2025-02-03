@@ -4,7 +4,7 @@
 
 <p align="center">I am an IT student seeking freelance and internship opportunities in technology.</p>
 
-[Portfolio Website](https://my-portfolio-website-weld-five.vercel.app/) - A personal portfolio showcasing education, projects, contact and more, designed with React and Tailwind CSS.
+[Portfolio Website](https://lr0cha-portfolio.vercel.app/) - A personal portfolio showcasing education, projects, contact and more, designed with React and Tailwind CSS.
 ###
 
 <h2 align="left">💻 Tech Stack</h2>
