@@ -2,11 +2,16 @@
 
 ###
 
-<p align="center">I am an IT student seeking freelance and internship opportunities in technology.</p>
+<p align="center">
+  I am an IT student seeking freelance and opportunities in technology.
+  <img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="90px" />
+</p>
 
-[Portfolio Website](https://lr0cha-portfolio.vercel.app/) - A personal portfolio showcasing education, projects, contact and more, designed with React and Tailwind CSS.
 ###
 
+[Portfolio Website](https://lr0cha-portfolio.vercel.app/) - A personal portfolio showcasing education, work expirience, projects, contact and more.
+
+###
 <h2 align="left">💻 Tech Stack</h2>
 
 ###
@@ -27,7 +32,6 @@ Languages:
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 
-
 ###
 
 Libraries/Frameworks:
@@ -41,6 +45,8 @@ Libraries/Frameworks:
 
 Developer Tools:
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+<img width="12" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" height="30" alt="github actions logo" />
 <img width="12" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
 <img width="12" />
