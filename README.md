@@ -1,58 +1,76 @@
-<h1 align="center">Hey there, I´m Lucas! 👋</h1>
-
-###
+<h1 align="center">Hey there, I'm Lucas! 👋</h1>
 
 <p align="center">
-  I am an IT student seeking freelance and opportunities in technology.
+  <b>Cloud & DevOps Intern | 1x AWS Certified | IT Student</p></b>
   <img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="90px" />
 </p>
 
-###
+---
 
-[Portfolio Website](https://lr0cha-portfolio.vercel.app/) - A personal portfolio showcasing education, work expirience, projects, contact and more.
+### 🎒 About Me
+
+- 💼 Experience as **Cloud & DevOps Intern**
+- ☁️ **AWS Certified** – [View my badge](https://www.credly.com/badges/4cdce62d-71c0-40c0-a9c1-acc0031b628f/public_url)
+- 📚 IT Student seeking freelance and **tech opportunities**  
+- 🧩 Working on DevOps, automation, backend development and cloud infrastructure  
+- 🌐 [Portfolio Website](https://lr0cha-portfolio.vercel.app/)  
+
+**Languages:**  
+🇧🇷 Native Portuguese  
+🇺🇸 Advanced English
+
+---
 
 ###
 <h2 align="left">💻 Tech Stack</h2>
 
-###
-Languages:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+### 
+☁️ Cloud & DevOps:
+<img src="https://skillicons.dev/icons?i=aws" height="50" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=terraform" height="50" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=docker" height="50" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+<img src="https://skillicons.dev/icons?i=githubactions" height="50" />
 
-###
+### 
+Programming Languages:
+<img src="https://skillicons.dev/icons?i=java" height="50" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=php" height="50" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=ts" height="50" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=js" height="50" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=c" height="50" />
 
-Libraries/Frameworks:
-<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo"  />
+### 
+Frameworks & Libraries:
+<img src="https://skillicons.dev/icons?i=spring" height="50" />
 <img width="12" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+<img src="https://skillicons.dev/icons?i=fastapi" height="50" />
 <img width="12" />
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="50" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" />
 
-###
-
-Developer Tools:
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+### 
+Databases & Tools:
+<img src="https://skillicons.dev/icons?i=mysql" height="50" />
 <img width="12" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" height="30" alt="github actions logo" />
+<img src="https://skillicons.dev/icons?i=postgres" height="50" />
 <img width="12" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+<img src="https://skillicons.dev/icons?i=postman" height="50" />
 <img width="12" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-<img width="12" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+<img src="https://skillicons.dev/icons?i=git" height="50" />
 
 ###
 
@@ -64,5 +82,3 @@ Developer Tools:
   <img src="https://github-readme-stats.vercel.app/api?username=Lr0cha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lr0cha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
-
-###
